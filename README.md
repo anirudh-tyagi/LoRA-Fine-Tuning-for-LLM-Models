@@ -46,30 +46,3 @@ The LoRA fine-tuned model produces a more structured and detailed explanation, e
 To explore the LoRA Fine-Tuning project further, visit the following link on **Weights and Biases (WanDB)**:
 
 [LoRA Fine-Tuning Project](https://wandb.ai/anirudh_tyagi/LoRA_Fine_Tuning)
-
-## Installation
-
-To get started with this project, follow the steps below:
-
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/your-repo/LoRA_Fine_Tuning.git
-    ```
-
-2. Install the necessary dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Follow the instructions in the code to fine-tune your models using the LoRA method.
-
-## Contributing
-
-We welcome contributions! If you have suggestions for improvements or encounter issues, feel free to open a pull request or raise an issue in the GitHub repository.
-
----
-
-Enjoy fine-tuning your LLM models with LoRA and experience the efficiency of this powerful technique!
-
